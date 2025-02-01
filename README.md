@@ -16,8 +16,8 @@ Pure CSS Styling: No JavaScript or third-party frameworks.
 <br>
 <br>
 👩‍💻 Author
-<br>[
-Shibadatta Mohapatra(github.com/Shibadatta-M)
+<br>
+<a href:"https://github.com/Shibadatta-M">Shibadatta Mohapatra</a>
 <br>
 <br>
 🤝 Contributions
