@@ -277,3 +277,31 @@ a{
     border-radius: 50%;
     margin-top: -6px;
 }
+
+.album{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.album img{
+    height: 56px;
+    width: 56px;
+    border-radius: 5px;
+}
+
+.album-p,i{
+    margin-left: 15px;
+}
+
+.album i{
+    opacity: 0.75;
+}
+
+.album i:hover{
+    opacity: 1;
+}
+
+.album-info{
+    font-size: 0.7rem;
+}
